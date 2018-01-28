@@ -2,4 +2,4 @@ Software development
 humans.txt
 Lauri Kyttälä
 lauri.kyttala@gmail.com
-last line #5
+beta version of files
