@@ -3,3 +3,4 @@ humans.txt
 Lauri Kyttälä
 lauri.kyttala@gmail.com
 beta version of files
+added my name: Lauri K - att the end of the file
